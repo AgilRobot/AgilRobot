@@ -1,4 +1,4 @@
-# 🦄 Pony Town Character: AgilRob
+# 🦄 Pony Town Character: AgilRobot
 
 ![AgilRobot Full Look](20260107_145715.jpg)
 ## 📜 Terms of Use (License Extension)
@@ -18,4 +18,4 @@ The "AgilRobot" character is shared under the following conditions:
 | **Eye Whites** | `#000000` | [View Eye Whites](Screenshot_2026-01-07_140222-2.jpg) |
 | **Mouth Inside** | `#721946` | [View Mouth Inside](Screenshot_2026-01-07_140245-5.jpg) |
 | **Tongue** | `#f39f4b` | [View Tongue](Screenshot_2026-01-07_140245-6.jpg) |
-| **Blush** | `#c90040` | [View Blush](Screenshot_2026-01-07_140245-7.jpg) |
+| **Blush** | `#c90040` | [View Blush](Screenshot_2026-01-07_140233-1.jpg) |
