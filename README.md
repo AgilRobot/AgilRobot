@@ -19,3 +19,6 @@ The "AgilRobot" character is shared under the following conditions:
 | **Tail** | `#000000` | [View Tail](Screenshot_2026-01-07_164344-1.jpg) |
 | **Back Mane** | `#000000` | [View Back Mane](Screenshot_2026-01-07_164354-1.jpg) |
 | **Markings** | `#000000` | [View Markings](Screenshot_2026-01-07_165926-1.jpg) |
+
+AgilRobot Image:
+![AgilRobot Full Look](20260107_145715.jpg)
