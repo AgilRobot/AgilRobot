@@ -21,4 +21,4 @@ The "AgilRobot" character is shared under the following conditions:
 | **Markings** | `#000000` | [View Markings](Screenshot_2026-01-07_165926-1.jpg) |
 
 AgilRobot Image:
-![AgilRobot Full Look](20260107_145715.jpg)
+![AgilRobot Full Look](6956c0ecc8add__APP6024859-7D5F2598-8123-4B31-AB7B-107822D8DDEC-1024x768.jpg)
