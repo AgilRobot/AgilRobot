@@ -20,4 +20,4 @@ The "AgilRobot" character is shared under the following conditions:
 | **Tongue** | `#f39f4b` | [View Tongue](Screenshot_2026-01-07_140245-2.jpg) |
 | **Blush** | `#c90040` | [View Blush](Screenshot_2026-01-07_140233-1.jpg) |
 | **Tail** | `#000000` | [View Eye Whites](Screenshot_2026-01-07_164344-1.jpg) |
-| **BackMane** | `#000000` | [View Eye Whites](Screenshot_2026-01-07_164354-1.jpg) |
+| **BackMane** | `#000000` | [BackMane](Screenshot_2026-01-07_164354-1.jpg) |
