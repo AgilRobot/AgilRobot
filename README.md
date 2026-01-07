@@ -13,7 +13,7 @@ The "AgilRobot" character is shared under the following conditions:
 | Part | Hex Code | Preview |
 | :--- | :--- | :--- |
 | **BaseColor** | `#d18fe0` | [View Body](Screenshot_2026-01-07_140038-1.jpg) |
-| **Mane** | `#333333` | [View Mane & Tail](Screenshot_2026-01-07_140154-1.jpg) |
+| **Mane** | `#333333` | [View Mane](Screenshot_2026-01-07_140154-1.jpg) |
 | **Eye Color** | `#ff0000` | [View Pupils](Screenshot_2026-01-07_140222-1.jpg) |
 | **Eye Whites** | `#000000` | [View Eye Whites](Screenshot_2026-01-07_140222-2.jpg) |
 | **Mouth Inside** | `#721946` | [View Mouth Inside](Screenshot_2026-01-07_140245-1.jpg) |
