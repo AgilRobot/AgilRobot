@@ -1,3 +1,6 @@
+Disclaimer:
+I just made a pony character in the Pony Town game, by making an Agile Robot character made by Agilrobot.
+
 # 🦄 Pony Town Character: AgilRobot
 
 ![AgilRobot Full Look](20260107_145715.jpg)
