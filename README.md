@@ -1,5 +1,6 @@
 # 🦄 Pony Town Character: AgilRobot
 
+![AgilRobot Full Look](20260107_145715.jpg)
 ## 📜 Terms of Use (License Extension)
 The "AgilRobot" character is shared under the following conditions:
 1. **Distribution:** You are allowed to share and distribute this character on any platform.
