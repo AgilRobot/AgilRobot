@@ -10,7 +10,7 @@ The "AgilRobot" character is shared under the following conditions:
 ---
 ## 🎨 Technical Specifications (Hex Codes)
 
-| Part | Hex Code | Preview |
+| Part | Code Color | Preview |
 | :--- | :--- | :--- |
 | **BaseColor** | `#d18fe0` | [View BaseColor](Screenshot_2026-01-07_140038-1.jpg) |
 | **Mane** | `#333333` | [View Mane](Screenshot_2026-01-07_140154-1.jpg) |
@@ -18,4 +18,4 @@ The "AgilRobot" character is shared under the following conditions:
 | **Eye Whites** | `#000000` | [View Eye Whites](Screenshot_2026-01-07_140222-2.jpg) |
 | **Tail** | `#000000` | [View Tail](Screenshot_2026-01-07_164344-1.jpg) |
 | **Back Mane** | `#000000` | [View Back Mane](Screenshot_2026-01-07_164354-1.jpg) |
-| **Markings** | `#000000` | [View Markings](Screenshot_2026-01-07_164354-1.jpg) |
+| **Markings** | `#000000` | [View Markings](Screenshot_2026-01-07_165926-1.jpg) |
