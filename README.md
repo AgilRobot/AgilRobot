@@ -8,8 +8,14 @@ The "AgilRobot" character is shared under the following conditions:
 3. **Authenticity:** The character must be used in its original form, strictly following the Hex Code data provided here.
 
 ---
+# 🦄 AgilRobot - Character Profile
+
+Selamat datang di halaman profil resmi **AgilRobot**! Halaman ini berisi spesifikasi teknis warna dan detail desain untuk karakter Pony Town saya.
+
+---
 
 ## 🎨 Technical Specifications (Hex Codes)
+
 | Part | Hex Code | Preview |
 | :--- | :--- | :--- |
 | **Body Base** | `#d18fe0` | [Lihat Body](NAMA_FILE_1.jpg) |
@@ -18,4 +24,20 @@ The "AgilRobot" character is shared under the following conditions:
 | **Mouth/Inside** | `#721946` | [Lihat Mulut](NAMA_FILE_4.jpg) |
 | **Tongue** | `#f39f4b` | [Lihat Lidah](NAMA_FILE_5.jpg) |
 | **Blush** | `#c90040` | [Lihat Blush](NAMA_FILE_6.jpg) |
-| **Bagian Ketujuh** | `#000000` | [Lihat Detail](NAMA_FILE_7.jpg) |
+| **Outlines/Other** | `#000000` | [Lihat Detail](NAMA_FILE_7.jpg) |
+
+---
+
+## 🛠️ Character Settings
+
+- **Markings:** Layer 1 (Shadow/Glow)
+- **Features:** Fangs Enabled, Side Horns, Wings
+- **Species:** Pegasus / Bat Pony Mix
+
+---
+
+## 📸 Full Character Image
+![AgilRobot Full Profile](20260107_145715.jpg)
+
+---
+*Dibuat dengan ❤️ oleh AgilRobot menggunakan GitHub.*
