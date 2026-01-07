@@ -1,4 +1,4 @@
-# 🦄 Pony Town Character: AgilRobot
+#i# 🦄 Pony Town Character: AgilRob
 
 ![AgilRobot Full Look](20260107_145715.jpg)
 ## 📜 Terms of Use (License Extension)
@@ -11,10 +11,10 @@ The "AgilRobot" character is shared under the following conditions:
 ## 🎨 Technical Specifications (Hex Codes)
 | Part | Hex Code | Preview |
 | :--- | :--- | :--- |
-| **Body Base** | `#d18fe0` | [Lihat Body](Screenshot_2026-01-07_153022.jpg) |
-| **Mane & Tail** | `#333333` | [Lihat Rambut](Screenshot_2026-01-07_153215.jpg) |
-| **Eyes (Pupils)** | `#ff0000` | [Lihat Mata](Screenshot_2026-01-07_153410.jpg) |
-| **Mouth/Inside** | `#721946` | [Lihat Mulut](Screenshot_2026-01-07_153605.jpg) |
-| **Tongue** | `#f39f4b` | [Lihat Lidah](Screenshot_2026-01-07_153812.jpg) |
-| **Blush** | `#c90040` | [Lihat Blush](Screenshot_2026-01-07_154030.jpg) |
-| **Outlines** | `#000000` | [Lihat Detail](Screenshot_2026-01-07_154245.jpg) |
+| **Body Base** | `#d18fe0` | [Lihat Body](Screenshot_2026-01-07_140245-1.jpg) |
+| **Mane & Tail** | `#333333` | [Lihat Rambut](Screenshot_2026-01-07_140245-2.jpg) |
+| **Eyes (Pupils)** | `#ff0000` | [Lihat Mata](Screenshot_2026-01-07_140245-3.jpg) |
+| **Eye Whites** | `#000000` | [Lihat Detail](Screenshot_2026-01-07_140245-4.jpg) |
+| **Mouth Inside** | `#721946` | [Lihat Mulut](Screenshot_2026-01-07_140245-5.jpg) |
+| **Tongue** | `#f39f4b` | [Lihat Lidah](Screenshot_2026-01-07_140245-6.jpg) |
+| **Blush** | `#c90040` | [Lihat Blush](Screenshot_2026-01-07_140245-7.jpg) |
